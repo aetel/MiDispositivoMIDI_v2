@@ -1,0 +1,19 @@
+#######################################
+# MiDispositivoMidiv2
+# me falt por rellenar algua. revisar cuando tenga timepo
+#######################################
+
+MiDispositivoMidiv2    KEYWORD1
+MiDispositivoMidiv2    KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+encenderElemento	KEYWORD2
+encenderFila	KEYWORD2
+encenderColumna	KEYWORD2
+encenderArray	KEYWORD2
+encenderPagina	KEYWORD2
+getBotonPulsado	KEYWORD2
+
+
