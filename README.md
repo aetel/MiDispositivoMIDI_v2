@@ -9,10 +9,10 @@ MiDispositivoMIDI is a DIY MIDI Controller developed by a couple students of the
 
 # Important notes
 Note that this Arduino library also uses other libraries. You will need to download the following:
-#include <analogmuxdemux.h>
-#include <SimpleTimer.h>
-#include <Keypad.h>
-#include <MIDI.h>
+analogmuxdemux.h
+SimpleTimer.h
+Keypad.h
+MIDI.h
 
 # Features
 This initial release has four examples in order to show the main features of the library. A brief explanation is given in the header of each example. Basically it shows how to light up the leds, send midi messages and use timmers.
