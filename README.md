@@ -1,3 +1,7 @@
+# Warning
+This repository is no loger active. Everything had been moved to the BanaNut Electronics repository:
+https://github.com/bananutelectronics
+
 # MiDispositivoMIDI_v2
 MiDispositivoMIDI is a DIY MIDI Controller developed by a couple students of the Polytechnic University of Madrid for a workshop given in May and October of 2014. The code is under MIT license and the hardware is under CC BY-NC-SA 4.0. Everything can be downloaded from this repository. If you are interested in helping us to improve our proyect, let us know!
 
