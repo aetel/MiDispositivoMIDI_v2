@@ -1,5 +1,5 @@
 # Warning
-This repository is no loger active. Everything had been moved to the BanaNut Electronics repository:
+This repository is no loger active. Everything has been moved to the BanaNut Electronics repository:
 https://github.com/bananutelectronics
 
 # MiDispositivoMIDI_v2
